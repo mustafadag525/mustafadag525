@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 ## **Contact**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-da%C4%9F-1a2743213/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mustafadag1_/)
- [![Gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mdag3054@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)]((https://www.mdag3054@gmail.com/)
