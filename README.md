@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 ## **Contact**
 
 
-<p align='left'>
-    <a href="mailto:mdag3054@gmail.com"><img height="30" src="https://github.com/mustafadag525/mustafadag525/blob/master/assets/gmail.png"></a>&nbsp;&nbsp;
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-da%C4%9F-1a2743213/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mustafadag1_/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vT54SuZg)
 
