@@ -19,9 +19,36 @@ Here are some ideas to get you started:
 <a href="mailto:mdag3054@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-c14321?logo=Gmail&logoColor=red&style=social">
 </a>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="Gökhan Demir" />
+  <meta name="description" content="Whatsapp" />
+  <meta name="keywords" content="whatsapp" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Whatsapp</title>
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" >
-<i  class="fab fa-whatsapp fa-7x"></i>
+  <!-- jQuery start -->
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <!-- jQuery end -->
+
+  <!-- whatsapp start -->
+  <!-- source : http://github.com/gdemir/whatsapp -->
+  <link rel="stylesheet" type="text/css" href="whatsapp.min.css" />
+  <!-- whatsapp end -->
+</head>
+<body>
+
+  <!-- whatsapp logo start -->
+  <a href="https://wa.me/905413936946" target="_blank"><div id="whatsapp-logo" style="top:0; right:0;"></div></a>
+  <!-- whatsapp logo end -->
+
+</body>
+</html>
+
 
 
 
