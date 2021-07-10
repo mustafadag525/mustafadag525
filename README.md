@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Gmail-c14321?logo=Gmail&logoColor=red&style=social">
 </a>
 
-
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" >
+<i  class="fab fa-whatsapp fa-7x"></i>
 
 
 
