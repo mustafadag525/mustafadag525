@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 <a href="mailto:mdag3054@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-c14321?logo=Gmail&logoColor=red&style=social">
 </a>
-.fa-whatsapp  {
-  color:#fff;
-  background:
-  linear-gradient(#25d366,#25d366)10px 84%/10px 9px no-repeat,
-  radial-gradient(circle at center, #25d366 63%,transparent 0);
-}
+
 
 
 
