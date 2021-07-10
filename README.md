@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Code::Blocks" width="36px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png" />
 <img align="left" alt="Java" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
 <p align="left">
+  <img align="left" alt="HTML5" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
+
