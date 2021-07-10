@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 <img align="left" alt="QT" width="36px" src="http://upload.turkcewiki.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" />
 <img align="left" alt="JavaScript
 " width="36px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
+<img align="left" alt="C PROGRAMMİNG" width="36px" src="https://kodlasana.com/wp-content/uploads/2019/07/C-programming-650x336.png" />
+<img align="left" alt="C#" width="36px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 
