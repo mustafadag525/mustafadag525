@@ -35,4 +35,6 @@ Here are some ideas to get you started:
   <img align="left" alt="HTML5" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS3" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="QT" width="36px" src="http://upload.turkcewiki.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" />
+<img align="left" alt="JavaScript
+" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 
